@@ -12,13 +12,11 @@
 <div class="container">
     <h2> Follow each link to the page example</h2>
     <u1 class="nav">
-        <1i class="nav-item"><a class="nav-link" href= "index.php">Home</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "arrays.php">Simple Arrays and printouts</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "datetimemanip.php">simpel datetimemanip</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "forloop.php">forloop</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "function.php">function</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "ifstatement.php">ifstatement</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "switchstatement.php">switchstatement</a></1i>
-        <1i class="nav-item"><a class="nav-link" href= "whiledowhileloop.php">whiledowhileloop</a></1i>
+        <a class="nav-link" href= "index.php">Home</a>        
+        <a class="nav-link" href= "datetimemanip.php">simpel datetimemanip</a>
+        <a class="nav-link" href= "forloop.php">forloop</a>        
+        <a class="nav-link" href= "ifstatement.php">ifstatement</a></1i>
+        <a class="nav-link" href= "switchstatement.php">switchstatement</a>
+        <a class="nav-link" href= "whiledowhileloop.php">whiledowhileloop</a>
     </u1>
    
